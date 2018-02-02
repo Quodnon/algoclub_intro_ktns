@@ -65,7 +65,7 @@ Gitter chat: https://gitter.im/Kottans/kottans.github.io
 
 ## algorithm club 2018
 
-![](img/gitter.png) https://gitter.im/Kottans/algorithm_club
+![](img/gitter.PNG) https://gitter.im/Kottans/algorithm_club
 
 ![](img/tg.png) https://t.me/joinchat/C1v8eg9udVHwnHbha8fYIQ
 
@@ -76,7 +76,7 @@ Gitter chat: https://gitter.im/Kottans/kottans.github.io
 
 |Teacher | Ben Affleck |
 | -- | -- |
-| ![](img/teacher.png) | ![](img/affleck.jpg) |
+| ![](img/teacher.PNG) | ![](img/affleck.jpg) |
 
 
 --
@@ -103,7 +103,7 @@ Gitter chat: https://gitter.im/Kottans/kottans.github.io
 --
 |Teacher | pvt Pyle |
 | -- | -- |
-| ![](img/teacher.png) | ![](img/pyle.jpg) |
+| ![](img/teacher.PNG) | ![](img/pyle.jpg) |
 
 --
 

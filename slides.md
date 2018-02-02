@@ -19,6 +19,17 @@ Password: welcome2congniance
 
 ## many thanks to:
 ![cogniance](img/cogniance.png)
+--
+
+![](img/ragnar.png) 
+
+--
+
+![](img/crm.jpg)
+
+--
+
+ ![](img/hh.gif)
 
 --
 # Who we are?
@@ -70,7 +81,13 @@ Gitter chat: https://gitter.im/Kottans/kottans.github.io
 
 --
 ### Why?
-1. ~~Cоздать~~ укрепить фундамент
+
+1. Проходить интервью
+1. Проводить интервью
+
+--
+### Why?
+1. Cоздать/ укрепить фундаментальную базу
 1. Oтвязаться от конкретного ЯП
 1. Развить воображение
 
@@ -78,12 +95,12 @@ Gitter chat: https://gitter.im/Kottans/kottans.github.io
 
 --
 ### Why?
-
-1. Проходить интервью
-1. Проводить интервью
+использовать в работе
+- тот же sql
+- код без газа
+- пример из жизни
 
 --
-
 |Teacher | pvt Pyle |
 | -- | -- |
 | ![](img/teacher.png) | ![](img/pyle.jpg) |
